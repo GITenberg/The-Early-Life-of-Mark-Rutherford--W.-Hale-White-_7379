@@ -1,0 +1,29 @@
+_repo: The-Early-Life-of-Mark-Rutherford--W.-Hale-White-_7379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, William Hale
+    aliases:
+    - White, W. Hale (William Hale)
+    - Shapcott, Reuben
+    - Rutherford, Mark
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '1904'
+    url: http://www.gutenberg.org/2009/agents/1904
+    wikipedia: http://en.wikipedia.org/wiki/William_Hale_White
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'White, William Hale, 1831-1913 -- Childhood and youth'
+- !lcc 'PR'
+- GITenberg
+title: The Early Life of Mark Rutherford (W. Hale White)
+url: http://www.gutenberg.org/ebooks/7379
